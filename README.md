@@ -81,7 +81,7 @@ This project is licensed under [Apache 2.0 License](LICENSE).
 ## Contact
 PAK,EUNJI - pakeunji@etri.re.kr
 
-Project Link: [https://github.com/pakeunji/nest-snn.git](https://github.com/pakeunji/nest-snn.git)
+Project Link: [https://github.com/etri/nest-snn.git](https://github.com/etri/nest-snn.git)
 
 
 
