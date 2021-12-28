@@ -21,7 +21,7 @@ The project has been tested under the Linux Ubuntu 16.04 LTS with CUDA 9.0.
 
 2. Download this project
     ```sh
-    git clone git@github.com:pakeunji/nest-snn.git
+    git clone git@github.com:etri/nest-snn.git
     ```
 3. Patch modified CARLsim4 source code
     ```sh
