@@ -2,7 +2,7 @@
 
 The repository contains some examples of pre-trained SNN (Spiking Neural Network) models. 
 
-The models were trained using the [MM-BP](https://github.com/jinyyy666/mm-bp-snn) training algorithm, and the models run on the [CARLsim4](https://github.com/UCI-CARL/CARLsim4) SNN simulator. 
+The SNN models were trained using the [MM-BP](https://github.com/jinyyy666/mm-bp-snn) training algorithm, and the models run on the [CARLsim4](https://github.com/UCI-CARL/CARLsim4) SNN simulator. 
 
 The models aim to perform image classification or speech recognition. For the image classification, the [MNIST](http://yann.lecun.com/exdb/mnist/) or [N-MNIST](http://www.garrickorchard.com/datasets/n-mnist) dataset is used. For the speech recognition, the [TI46](https://catalog.ldc.upenn.edu/LDC93S9) dataset is used.
 
